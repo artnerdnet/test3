@@ -4,3 +4,6 @@ First line
 NEW LINE
 N
 B
+second
+third
+fourth

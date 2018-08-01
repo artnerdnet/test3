@@ -1,5 +1,4 @@
 # test3
 
 First line
-second
-third
+NEW LINE
